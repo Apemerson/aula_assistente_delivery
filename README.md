@@ -57,4 +57,4 @@ def lambda_handler(event, context):
 
  
 Conclusão
-com esses passos, criei um fluxo de um jantar romântico utilizando AWS Step Functions e Amazon Bedrock. 
+com esses passos, criei um fluxo de um jantar romântico utilizando meu entendimento na aula de AWS Step Functions e Amazon Bedrock. 
